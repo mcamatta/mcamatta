@@ -2,7 +2,7 @@
 Meu nome é Michel Camatta e eu sou estudante de Ciência da Computação.
 * Estagiário Front-End na <a href="https://www.tridia.com.br/index.php/pt-br/">Trídia Criação</a>
 * Aluno da Alura
-
+<br><br>
 
 
 <div>
