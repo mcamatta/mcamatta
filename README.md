@@ -1,7 +1,6 @@
 #### Olá! 
 Meu nome é Michel Camatta e eu sou estudante de Ciência da Computação.
-* Estágio em Desenvolvimento de Software na <a href="https://www.tridia.com.br/index.php/pt-br/">Trídia Criação</a>
-* Aluno da Alura
+* Desenvolvedor de Software na <a href="https://www.tridia.com.br/index.php/pt-br/">Trídia Criação</a>
 <br><br>
 
 </div>
