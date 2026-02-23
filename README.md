@@ -1,4 +1,4 @@
-### Desenvolvedor FullStack na <a href="https://sisuple.com">Sisuple Tecnologia</a>
+### Desenvolvedor FullStack
 
 <div>
   <a href="https://github.com/mcamatta">
